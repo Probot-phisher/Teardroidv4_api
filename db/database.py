@@ -1,7 +1,8 @@
 from deta import Deta
 from os import getenv
 
-deta = Deta(getenv("DETA_PROJECT_KEY"))
+deta = Deta(getenv("
+d0h6ry54_3PT45Rxg7SPjoyoq91pXrczQkJ3dvxRe"))
 
 
 def client_db():
